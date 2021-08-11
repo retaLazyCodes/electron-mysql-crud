@@ -1,8 +1,8 @@
 {
   "name": "todo-list",
-  "productName": "screen-capen-capture",
+  "productName": "todo-list",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A Desktop TO-DO List application",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
