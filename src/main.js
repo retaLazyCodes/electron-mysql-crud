@@ -51,6 +51,7 @@ const updateProduct = async (id, product) => {
     console.log(result)
 };
 
+
 function createWindow() {
     window = new BrowserWindow({
         width: 800,
